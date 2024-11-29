@@ -17,7 +17,7 @@ Chess.js: For the chess game logic and move validation.
 Installation and Setup
 
 1.Clone the repository:
-git clone https://github.com/your-username/chess-game-clone.git
+git clone https://github.com/tanyagupta0902/Chess/tree/main/Chess-main
 cd chess-game-clone
 
 2.Install dependencies:
@@ -39,4 +39,4 @@ Dev Dependencies
 tailwindcss: ^3.4.4
 
 Author
-Pranjali Singh.
+Tanya Gupta
